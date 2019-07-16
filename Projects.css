@@ -1,0 +1,64 @@
+body{
+    background: url("https://media3.giphy.com/media/sRFEa8lbeC7zbcIZZR/giphy.gif") no-repeat center center fixed;
+    background-size: cover;
+    height: 2000px;
+  }
+  
+  header:first-child{
+  align: left;
+    
+  }
+  header{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+    
+    
+  }
+  
+  .backButton{
+    height: 5rem;
+    width: 5rem;
+    
+  }
+  
+  .myProjects{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+    
+    
+  }
+  #title{
+    text-align: center;
+    color: #48dbfb;
+    -webkit-text-fill-color: #54a0ff;
+    -webkit-text-stroke-width: 2px;
+    font-family: 'Righteous', cursive;
+    /*font-family: 'Open Sans Condensed', sans-serif;*/
+    font-size: 400%;
+  }
+  
+  .project1{
+    
+    
+    /*height: 30rem;*/
+    /*width: 30rem;*/
+    
+    
+  }
+  .project {
+    height: 20rem;
+    width: 20rem;
+    margin: 15px 10%;
+    
+    
+  }
+  
+  
+  
+  
+  
+  
+  
